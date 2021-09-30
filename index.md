@@ -36,3 +36,6 @@
 
 # ABOUT ME
 A result oriented student with a Bachelor’s degree in Computer Science and pursuing Master’s in Applied Computer Science at Grand Valley State University, Michigan. Looking for internship positions for Summer 2022 and willing to relocate.
+
+# TERM PROJECT
+As part of CIS-614 team term project, We are developing a ride share application for students which allows them to share their ride with their friends to save money and have a fun ride to their favorite place. I am responsible for Devops and Front-end of the application which will be deployed on AWS.
